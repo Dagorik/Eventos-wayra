@@ -3,5 +3,5 @@ from .models import Evento
 
 class EventoSerializer(serializers.ModelSerializer):
 	class Meta:
-		models = Evento
+		model = Evento
 		fields = '__all__'

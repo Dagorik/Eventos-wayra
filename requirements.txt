@@ -1,0 +1,16 @@
+amqp==2.1.1
+billiard==3.5.0.2
+celery==4.0.0
+Django==1.9.8
+django-filter==1.0.0
+djangorestframework==3.5.3
+djangorestframework-jwt==1.8.0
+gunicorn==19.6.0
+kombu==4.0.0
+Pillow==3.4.2
+pkg-resources==0.0.0
+psycopg2==2.6.2
+PyJWT==1.4.2
+pytz==2016.7
+redis==2.10.5
+vine==1.1.3
